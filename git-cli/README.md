@@ -3,8 +3,6 @@
 ## Delete branch utils
 
 ### **Examples**
----
-
 #### Deleting feature branches with pattern feature/*
 `bash utils.sh delete-feature-branches`
 
